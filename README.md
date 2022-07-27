@@ -1,4 +1,8 @@
-### Hi there 👋
+# 💫 About Me :
+An ambitious problem solver with a 10 years of exprience. I have much experience of creating logical and innovative solutions to complex problems. I am thorough and precise in everything I do, and has a keen interest in technology, web applications. As someone who takes responsibility for my own personal development, I continually evaluating and upgrading my skills so that I stays at the cutting edge of web development.
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omidgharib/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3340330/omid-gharib) 
 
 <!--
 **omidgharib/omidgharib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
